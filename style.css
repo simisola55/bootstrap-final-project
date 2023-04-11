@@ -1,0 +1,631 @@
+.audiophile{
+    background-color: rgba(0, 0, 0, 0.904);
+}
+.nav-link:hover{
+  color: orange !important;
+}
+.container1{
+    background-color: rgba(0, 0, 0, 0.904);
+    height: 80vh;
+
+}
+.head{
+    font-size: 60px;
+}
+.product{
+    background-color: orange;
+    color: white;
+    margin-bottom: 20px;
+    width: 22%;
+    height: 7vh;
+    border: none;
+}
+.product:hover{
+    border: 3px solid orange;
+    background-color: black;
+    border-radius: 10px;
+}
+.spek{
+    margin-left: 270px;
+}
+.headphones{
+    margin-left: 130px;
+    margin-top: 40px;
+}
+.headset{
+    flex-direction: row;
+    display: flex;
+}
+.set{
+    margin-bottom: 20px;
+}
+.container2{
+    height: 40vh;
+}
+.card1{
+    width: 100%;
+    height: 22vh;
+    background-color: rgba(199, 196, 196, 0.356);
+    margin-top: 100px;
+    border-radius: 10px;
+}
+.ph{
+    text-align: center;
+    padding-top: 80px;
+}
+.hed{
+  position: absolute;
+  top: 20px;
+  margin-left: 100px;
+  
+}
+.shop:hover{
+    color: orange;
+}
+.shop{
+    margin-left: 160px;
+}
+.card2{
+    width: 100%;
+    height: 22vh;
+    background-color: rgba(199, 196, 196, 0.356);
+    margin-top: 100px;
+    border-radius: 10px; 
+}
+.had{
+ position: absolute;
+  top: 20px;
+  margin-left: 100px;
+}
+.ty{
+    text-align: center;
+    padding-top: 80px; 
+}
+.card3{
+    width: 100%;
+    height: 22vh;
+    background-color: rgba(199, 196, 196, 0.356);
+    margin-top: 100px;
+    border-radius: 10px;  
+}
+.hid{
+    position: absolute;
+    top: 20px;
+    margin-left: 80px;  
+}
+.tp{
+    text-align: center;
+    padding-top: 80px; 
+}
+.box{
+    background-color:rgba(255, 68, 0, 0.692);
+    height: 80vh;
+    width: 96%;
+    margin-top: 30px;
+    margin-left: 40px;
+    border-radius: 10px;
+    background-image: url(./images/pattern-circles.svg);
+    background-repeat: no-repeat;
+    background-position: 40px;
+}
+.speaker{
+    margin-left: 120px;
+    margin-top: 65px;
+}
+.zx{
+    font-size: 60px;
+    width: 10px;
+    margin-top: 70px;
+    margin-left: 80px;
+}
+.upgrade{
+    margin-top: 40px;
+    width: 65%;
+    margin-left: 80px;
+}
+.see{
+    background-color: black;
+    padding: 10px 30px;
+    margin-left: 80px;
+    border: none;
+}
+.see:hover{
+    border: 2px solid black;
+    background-color: rgba(255, 68, 0, 0.507);
+}
+.box2{
+    width: 96%;
+    height: 45vh;
+    background-color: rgba(128, 128, 128, 0.219);
+    margin-left: 50px;
+    border: none;
+    border-radius: 10px;
+}
+.zsp{
+    margin-top: 90px;
+}
+.prod{
+    padding: 10px 30px;
+}
+.prod:hover{
+   background-color: black;
+   color: white;
+}
+
+/* .box-2{
+    background-image: url(./images/image-speaker-zx7.jpg);
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-position: 70px;
+
+} */
+.ims{
+    border-radius: 10px;
+    margin-left: 230px;
+}
+.box3{
+    width: 70%;
+    height: 43vh;
+    background-color:rgba(128, 128, 128, 0.219) ;
+    margin-left: 50px;
+    border-radius: 10px;
+    
+}
+.earp{
+    margin-left: 60px;
+    padding-top: 90px;
+}
+.sep{
+    padding: 10px 30px;
+    background-color: black;
+    color: white;
+}
+.sep:hover{
+   background-color: rgba(128, 128, 128, 0.219);
+   color: black;
+}
+.bet{
+    color: rgba(199, 60, 9, 0.726);
+}
+.best{
+    border-radius: 5px;
+}
+.gear{
+   margin-top: 90px; 
+}
+.bt{
+    background-color: orange;
+    width: 10%;
+    border: none;
+    height: 5px;
+    margin-left: 150px;
+}
+.speak{
+    margin-left: 160px;
+}
+.container4{
+    background-color: black;
+    height: 50vh;
+    margin-top: 200px;
+}
+.aud{
+    width: 78%;
+    margin-left: 150px;
+    margin-top: 70px;
+}
+.phile{
+    margin-top: 50px;
+}
+.link:hover{
+    color: orange !important;
+}
+.links{
+    margin-top: 90px;
+    margin-left: 90px;
+}
+.logo{
+    margin-top: 170px;
+    margin-left: -80px;
+}
+.fa-facebook:hover{
+    color: orange !important;
+}
+.fa-twitter:hover{
+    color: orange !important;
+}
+.fa-instagram:hover{
+    color: orange !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:576px) {
+    .audiophile{
+        background-color: black;
+        width: 260%;
+        height: 42vh;
+        margin-top: -30px;
+    }
+    .dio{
+        font-size: 60px;
+    }
+    .nav-link{
+        font-size: 30px;
+    }
+
+    .container1{
+        background-color: black;
+        height: 80vh;
+        width: 260%;
+    
+    }
+    .head{
+        font-size: 60px;
+    }
+    .product{
+        background-color: orange;
+        color: white;
+        margin-bottom: 20px;
+        width: 22%;
+        height: 7vh;
+        border: none;
+    }
+    .product:hover{
+        border: 3px solid orange;
+        background-color: black;
+        border-radius: 10px;
+    }
+    .headphones{
+        margin-left: 100px;
+        margin-top: 40px;
+    }
+    .headset{
+        flex-direction: row;
+        display: flex;
+    }
+    .set{
+        margin-bottom: 20px;
+        margin-left: -180px;
+        width: 180%;
+    }
+    .headph{
+        flex-direction: column;
+        margin-left: 100px;
+    }
+    .card1{
+        width: 240%;
+        height: 45vh;
+        background-color: rgba(199, 196, 196, 0.356);
+        margin-top: 180px;
+        border-radius: 10px;
+    }
+    .ph{
+        text-align: center;
+        padding-top: 140px;
+        font-size: 60px;
+    }
+    .hed{
+      position: absolute;
+      top: 20px;
+      margin-left: 230px;
+      width: 90%;
+      
+    }
+    .shop:hover{
+        color: orange;
+    }
+    .shop{
+        margin-left: 330px;
+        font-size: 50px;
+    }
+    .card2{
+        width: 240%;
+        height: 45vh;
+        background-color: rgba(199, 196, 196, 0.356);
+        margin-top: 140px;
+        border-radius: 10px; 
+    }
+    .had{
+     position: absolute;
+      top: 20px;
+      margin-left: 230px;
+      width: 90%;
+    }
+    .ty{
+        text-align: center;
+        padding-top: 170px; 
+        font-size: 60px;
+    }
+    .card3{
+        width: 240%;
+        height: 45vh;
+        background-color: rgba(199, 196, 196, 0.356);
+        margin-top: 100px;
+        border-radius: 10px;  
+    }
+    .hid{
+        position: absolute;
+        top: 20px;
+        margin-left: 230px; 
+        width: 90%; 
+    }
+    .tp{
+        text-align: center;
+        padding-top: 170px; 
+        font-size: 60px;
+    }
+
+    .box{
+        background-color:rgba(255, 68, 0, 0.692);
+        height: 130vh;
+        width: 250%;
+        margin-top: 200px;
+        margin-left: 40px;
+        border-radius: 10px;
+        background-image: url(./images/pattern-circles.svg);
+        background-repeat: no-repeat;
+        background-position: 40px;
+        flex-direction: column;
+    }
+    .speaker{
+        margin-left: 240px;
+        margin-top: 95px;
+        width: 50%;
+        height: 60vh;
+    }
+    .zx{
+        font-size: 80px;
+        width: 10px;
+        margin-top: 70px;
+        margin-left: 300px;
+    }
+    .upgrade{
+        margin-top: 40px;
+        width: 35%;
+        margin-left: 270px;
+        font-size: 25px;
+        text-align: center;
+    }
+    .see{
+        background-color: black;
+        padding: 10px 30px;
+        margin-left: 350px;
+        border: none;
+    }
+    .see:hover{
+        border: 2px solid black;
+        background-color: rgba(255, 68, 0, 0.507);
+    }
+
+   .duct{
+       margin-top: 140px;
+   }
+   .zsp{
+    margin-top: 240px;
+    }
+   .prod{
+    padding: 10px 30px;
+    }
+    .prod:hover{
+     background-color: black;
+      color: white;
+    } 
+   .box2{
+    width: 250%;
+    height: 75vh;
+    background-color: rgba(128, 128, 128, 0.219);
+    margin-left: 50px;
+    border: none;
+    border-radius: 10px;
+   }  
+  .spek{
+      margin-left: 10px;
+      height: 70vh;
+      width: 100%;
+    }
+    .imsg{
+        flex-direction: column;
+    }
+
+    .ims{
+        border-radius: 10px;
+        margin-left: 50px;
+        width: 265%;
+    }
+    .box3{
+        width: 260%;
+        height: 60vh;
+        background-color:rgba(128, 128, 128, 0.219) ;
+        margin-left: 50px;
+        border-radius: 10px;
+        
+    }
+    .earp{
+        margin-left: 60px;
+        padding-top: 90px;
+        font-size: 60px;
+    }
+    .earp h1{
+        font-size: 80px;
+    }
+    .sep{
+        padding: 10px 30px;
+        background-color: black;
+        color: white;
+    }
+    .gear{
+        margin-top: 90px;
+        width: 220%; 
+        font-size: 40px;
+        margin-left: 150px;
+    }
+    .ger h1{
+        font-size: 60px;
+    }
+   .bt{
+         background-color: orange;
+         width: 10%;
+         border: none;
+         height: 5px;
+         margin-left: 150px;
+     }
+     .speak{
+         margin-left: 160px;
+     }
+    .best{
+        border-radius: 10px;
+        width: 250%;
+        height: 110vh;
+        margin-top: 50px;
+    }
+    .ger{
+        flex-direction: column;
+    } 
+    .container4{
+        background-color: black;
+        height: 50vh;
+        margin-top: 200px;
+        width: 260%;
+    }
+    .aud{
+        width: 78%;
+        margin-left: 150px;
+        margin-top: 70px;
+    }
+    .phile{
+        margin-top: 50px;
+        width: 70%;
+    }
+    .link:hover{
+        color: orange !important;
+    }
+    .links{
+        margin-top: 90px;
+        margin-left: -280px;
+    }
+    .logo{
+        margin-top: 170px;
+        margin-left: -40px;
+    }
+    
+
+}
+
+
+
+
+
+
+
+
+

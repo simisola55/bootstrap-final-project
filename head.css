@@ -1,0 +1,445 @@
+.audiophile{
+    background-color: rgba(0, 0, 0, 0.904);
+}
+.nav-link:hover{
+  color: orange !important;
+}
+.container3{
+    height: 30vh;
+    background-color: rgba(0, 0, 0, 0.904);
+}
+.pho{
+    padding-top: 100px;
+}
+.xx{
+    margin-top: 60px;
+    border-radius: 10px;
+}
+.nww{
+    color: orangered;
+}
+.pinnacle{
+    margin-left: 120px;
+    margin-top: 170px;
+}
+.se{
+    background-color: rgba(255, 68, 0, 0.808);
+    padding: 10px 25px;
+    border: none;
+    color: white;
+}
+.se:hover{
+    background-color: white;
+    color: black;
+    border: 4px solid rgba(255, 68, 0, 0.808);
+}
+.cision{
+    width: 90%;
+}
+.gold{
+    width: 90%;
+}
+.dard{
+   margin-top: 170px; 
+}
+.mak{
+    border-radius: 10px;
+}
+.joy{
+    width: 80%;
+}
+.xxh{
+    width: 30%;
+}
+.spec{
+    margin-left: 40px;
+    margin-top: 170px;
+}
+.card1{
+    width: 100%;
+    height: 22vh;
+    background-color: rgba(199, 196, 196, 0.356);
+    margin-top: 100px;
+    border-radius: 10px;
+}
+.ph{
+    text-align: center;
+    padding-top: 80px;
+}
+.hed{
+  position: absolute;
+  top: 20px;
+  margin-left: 100px;
+  
+}
+.shop:hover{
+    color: orange;
+}
+.shop{
+    margin-left: 160px;
+}
+.card2{
+    width: 100%;
+    height: 22vh;
+    background-color: rgba(199, 196, 196, 0.356);
+    margin-top: 100px;
+    border-radius: 10px; 
+}
+.had{
+ position: absolute;
+  top: 20px;
+  margin-left: 100px;
+}
+.ty{
+    text-align: center;
+    padding-top: 80px; 
+}
+.card3{
+    width: 100%;
+    height: 22vh;
+    background-color: rgba(199, 196, 196, 0.356);
+    margin-top: 100px;
+    border-radius: 10px;  
+}
+.hid{
+    position: absolute;
+    top: 20px;
+    margin-left: 80px;  
+}
+.tp{
+    text-align: center;
+    padding-top: 80px; 
+}
+.bet{
+    color: rgba(199, 60, 9, 0.726);
+}
+.best{
+    border-radius: 5px;
+    margin-top: 120px;
+    height: 80%;
+}
+.gear{
+   margin-top: 240px; 
+
+}
+.container4{
+    background-color: black;
+    height: 50vh;
+    margin-top: 200px;
+}
+.aud{
+    width: 78%;
+    margin-left: 150px;
+    margin-top: 70px;
+}
+.phile{
+    margin-top: 50px;
+}
+.link:hover{
+    color: orange !important;
+}
+.links{
+    margin-top: 90px;
+    margin-left: 90px;
+}
+.logo{
+    margin-top: 170px;
+    margin-left: -80px;
+}
+.fa-facebook:hover{
+    color: orange !important;
+}
+.fa-twitter:hover{
+    color: orange !important;
+}
+.fa-instagram:hover{
+    color: orange !important;
+}
+.bt{
+    background-color: orange;
+    width: 10%;
+    border: none;
+    height: 5px;
+    margin-left: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:576px) {
+    .audiophile{
+        background-color:rgba(0, 0, 0, 0.904) ;
+        width: 260%;
+        height: 42vh;
+        margin-top: -30px;
+    }
+    .dio{
+        font-size: 60px;
+    }
+    .nav-link{
+        font-size: 30px;
+    }
+
+    .container1{
+        background-color: black;
+        height: 80vh;
+        width: 260%;
+    
+    }
+    .pho{
+        padding-top: 100px;
+    } 
+    .container3{
+        height: 30vh;
+        background-color: rgba(0, 0, 0, 0.904);
+        width:260% ;
+    }
+    .doct{
+        flex-direction: column;
+    }
+    .xx{
+        margin-top: 60px;
+        border-radius: 10px;
+        margin-left: 180px;
+    }
+    .nww{
+        color: orangered;
+        margin-left: 150px;
+    }
+    .ii{
+        margin-left: 120px;
+        width: 120%;
+    }
+    .pinnacle{
+        margin-left: 250px;
+        margin-top: 170px;
+    }
+    .se{
+        background-color: rgba(255, 68, 0, 0.808);
+        padding: 10px 25px;
+        border: none;
+        color: white;
+        margin-left: 180px;
+    }
+    .se:hover{
+        background-color: white;
+        color: black;
+        border: 4px solid rgba(255, 68, 0, 0.808);
+    }
+    .cision{
+        width: 160%;
+        text-align: center;
+        font-size: 30px;
+    }
+    .ofr{
+        flex-direction: column;
+    }
+    .gold{
+        width: 90%;
+    }
+    .si{
+        background-color: rgba(255, 68, 0, 0.808);
+        padding: 10px 25px;
+        border: none;
+        color: white;
+        margin-left: -60px;
+
+    }
+    .dard{
+       margin-top: 240px; 
+       margin-left: 290px;
+       width: 160%;
+       font-size: 30px;
+       text-align: center;
+    }
+    .dard h1{
+        width: 30%;
+        margin-left: 120px;
+    }
+    .mak{
+        border-radius: 10px;
+        margin-left: 200px;
+        margin-top: 90px;
+    }
+    .joy{
+        width: 170%;
+        font-size: 30px;
+        text-align: center;
+    }
+    .xxh{
+        width: 30%;
+        margin-top: 600px;
+        margin-left: 120px;
+    }
+    .spec{
+        margin-left: 40px;
+        padding-top: 380px;
+    }
+    .mek{
+        width: 340%;
+        height: 50%;
+    }
+    .card1{
+        width: 240%;
+        height: 45vh;
+        background-color: rgba(199, 196, 196, 0.356);
+        margin-top: 180px;
+        border-radius: 10px;
+    }
+    .ph{
+        text-align: center;
+        padding-top: 140px;
+        font-size: 60px;
+    }
+    .hed{
+      position: absolute;
+      top: 20px;
+      margin-left: 230px;
+      width: 90%;
+      
+    }
+    .shop:hover{
+        color: orange;
+    }
+    .shop{
+        margin-left: 330px;
+        font-size: 50px;
+    }
+    .card2{
+        width: 240%;
+        height: 45vh;
+        background-color: rgba(199, 196, 196, 0.356);
+        margin-top: 140px;
+        border-radius: 10px; 
+    }
+    .had{
+     position: absolute;
+      top: 20px;
+      margin-left: 230px;
+      width: 90%;
+    }
+    .ty{
+        text-align: center;
+        padding-top: 170px; 
+        font-size: 60px;
+    }
+    .card3{
+        width: 240%;
+        height: 45vh;
+        background-color: rgba(199, 196, 196, 0.356);
+        margin-top: 100px;
+        border-radius: 10px;  
+    }
+    .hid{
+        position: absolute;
+        top: 20px;
+        margin-left: 230px; 
+        width: 90%; 
+    }
+    .tp{
+        text-align: center;
+        padding-top: 170px; 
+        font-size: 60px;
+    }
+    .headph{
+        flex-direction: column;
+        margin-left: 60px;
+        margin-top: 40px;
+    }
+    .best{
+        border-radius: 10px;
+        width: 250%;
+        height: 110vh;
+        margin-top: 50px;
+    }
+    .ger{
+        flex-direction: column;
+    } 
+
+    .gear{
+        margin-top: 90px;
+        width: 220%; 
+        font-size: 40px;
+        margin-left: 150px;
+    }
+    .ger h1{
+        font-size: 60px;
+    }
+    .container4{
+        background-color: black;
+        height: 50vh;
+        margin-top: 200px;
+        width: 260%;
+    }
+    .aud{
+        width: 78%;
+        margin-left: 150px;
+        margin-top: 70px;
+    }
+    .phile{
+        margin-top: 50px;
+        width: 70%;
+    }
+    .link:hover{
+        color: orange !important;
+    }
+    .links{
+        margin-top: 90px;
+        margin-left: -280px;
+    }
+    .logo{
+        margin-top: 170px;
+        margin-left: -40px;
+    }
+    
+}
