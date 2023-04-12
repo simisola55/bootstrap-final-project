@@ -1,17 +1,24 @@
 .audiophile{
     background-color: rgba(0, 0, 0, 0.904);
 }
+.dio{
+   margin-left: 190px;
+}
 .nav-link:hover{
   color: orange !important;
 }
 .container1{
     background-color: rgba(0, 0, 0, 0.904);
     height: 80vh;
-
 }
 .head{
     font-size: 60px;
+    width: 60%;
 }
+.car{
+    margin-right: 220px;
+}
+
 .product{
     background-color: orange;
     color: white;
@@ -29,18 +36,25 @@
     margin-left: 270px;
 }
 .headphones{
-    margin-left: 130px;
+    margin-left: 190px;
     margin-top: 40px;
 }
 .headset{
     flex-direction: row;
     display: flex;
 }
+.natural{
+    width: 50%;
+}
 .set{
     margin-bottom: 20px;
 }
 .container2{
     height: 40vh;
+}
+.box8{
+    height: 30vh;
+    align-items: center;
 }
 .card1{
     width: 100%;
@@ -350,35 +364,62 @@
 
 
 @media (max-width:576px) {
+    
     .audiophile{
         background-color: black;
-        width: 260%;
-        height: 42vh;
-        margin-top: -30px;
+        width: 100%;
+        height: 25vh;
     }
     .dio{
-        font-size: 60px;
+        font-size: 40px;
+        margin-left: 10px;
+        margin-top: -20px;
     }
     .nav-link{
-        font-size: 30px;
+        font-size: 10px;
     }
+    .navv{
+       margin-left: -70px;
+       margin-top: -40px;
+    }
+    .car{
+        margin-right: 220px;
+    }
+    .box8{
+        height: 24vh;
+        align-items: center;
+        width: 70%;
+        margin-left: 5px;
+    }
+
 
     .container1{
         background-color: black;
-        height: 80vh;
-        width: 260%;
+        height: 60vh;
+        width: 100%;
     
     }
     .head{
-        font-size: 60px;
+        font-size: 50px;
+        margin-left: -120px;
+        width: 80%;
     }
     .product{
         background-color: orange;
         color: white;
-        margin-bottom: 20px;
-        width: 22%;
+        margin-top: 30px;
+        width: 40%;
         height: 7vh;
         border: none;
+        margin-left: -40px;
+    }
+    .dict{
+        margin-left: -45px;
+    }
+    .natural{
+        text-align: center;
+        margin-left:-85px;
+        width: 60%;
     }
     .product:hover{
         border: 3px solid orange;
@@ -386,120 +427,127 @@
         border-radius: 10px;
     }
     .headphones{
-        margin-left: 100px;
+        margin-left: 150px;
         margin-top: 40px;
     }
     .headset{
         flex-direction: row;
         display: flex;
+        margin-left: -840px;
     }
     .set{
         margin-bottom: 20px;
-        margin-left: -180px;
-        width: 180%;
+        margin-left: 310px;
+        width: 60%;
     }
     .headph{
         flex-direction: column;
         margin-left: 100px;
     }
     .card1{
-        width: 240%;
-        height: 45vh;
+        width: 95%;
+        height: 21vh;
         background-color: rgba(199, 196, 196, 0.356);
         margin-top: 180px;
         border-radius: 10px;
+        margin-left: -105px;
     }
     .ph{
         text-align: center;
-        padding-top: 140px;
-        font-size: 60px;
+        padding-top: 80px;
+        font-size: 20px;
     }
     .hed{
       position: absolute;
-      top: 20px;
-      margin-left: 230px;
-      width: 90%;
+      top: 120px;
+      margin-left: 100px;
+      width: 40%;
       
     }
     .shop:hover{
         color: orange;
     }
     .shop{
-        margin-left: 330px;
-        font-size: 50px;
+        margin-left: 130px;
+        font-size: 30px;
     }
     .card2{
-        width: 240%;
-        height: 45vh;
+        width: 95%;
+        height: 21vh;
         background-color: rgba(199, 196, 196, 0.356);
         margin-top: 140px;
         border-radius: 10px; 
+        margin-left: -105px;
     }
     .had{
      position: absolute;
-      top: 20px;
-      margin-left: 230px;
-      width: 90%;
+      top: 80px;
+      margin-left: 100px;
+      width: 40%;
     }
     .ty{
         text-align: center;
-        padding-top: 170px; 
-        font-size: 60px;
+        padding-top: 80px; 
+        font-size: 25px;
     }
     .card3{
-        width: 240%;
-        height: 45vh;
+        width: 95%;
+        height: 21vh;
         background-color: rgba(199, 196, 196, 0.356);
         margin-top: 100px;
         border-radius: 10px;  
+        margin-left: -105px;
     }
     .hid{
         position: absolute;
-        top: 20px;
-        margin-left: 230px; 
-        width: 90%; 
+        top: 60px;
+        margin-left: 100px; 
+        width: 40%; 
     }
     .tp{
         text-align: center;
-        padding-top: 170px; 
-        font-size: 60px;
+        padding-top: 80px; 
+        font-size: 30px;
     }
 
     .box{
         background-color:rgba(255, 68, 0, 0.692);
-        height: 130vh;
-        width: 250%;
+        height: 70vh;
+        width: 88%;
         margin-top: 200px;
-        margin-left: 40px;
+        margin-left: 8px;
         border-radius: 10px;
         background-image: url(./images/pattern-circles.svg);
         background-repeat: no-repeat;
-        background-position: 40px;
+        background-position: 10px;
         flex-direction: column;
     }
     .speaker{
-        margin-left: 240px;
-        margin-top: 95px;
+        margin-left: 80px;
+        margin-top: 35px;
         width: 50%;
-        height: 60vh;
+        height: 40vh;
     }
     .zx{
-        font-size: 80px;
-        width: 10px;
-        margin-top: 70px;
-        margin-left: 300px;
+        font-size: 50px;
+        margin-top: 30px;
+        margin-left: 60px;
+        width: 50%;
+    }
+    .zu{
+        text-align: center;
     }
     .upgrade{
-        margin-top: 40px;
-        width: 35%;
-        margin-left: 270px;
-        font-size: 25px;
+        margin-top: 10px;
+        width: 90%;
+        margin-left: 16px;
+        font-size: 17px;
         text-align: center;
     }
     .see{
         background-color: black;
         padding: 10px 30px;
-        margin-left: 350px;
+        margin-left: 80px;
         border: none;
     }
     .see:hover{
@@ -511,27 +559,32 @@
        margin-top: 140px;
    }
    .zsp{
-    margin-top: 240px;
+    margin-top: 140px;
+    width: 100%;
+    font-size: 23px;
     }
    .prod{
-    padding: 10px 30px;
+    width: 100%;
+    font-size: 11px;
+
     }
     .prod:hover{
      background-color: black;
       color: white;
     } 
    .box2{
-    width: 250%;
-    height: 75vh;
+    width: 88%;
+    height: 40vh;
     background-color: rgba(128, 128, 128, 0.219);
-    margin-left: 50px;
+    margin-left: 8px;
     border: none;
     border-radius: 10px;
    }  
   .spek{
-      margin-left: 10px;
-      height: 70vh;
-      width: 100%;
+      margin-left: -10px;
+      height: 40vh;
+      width: 120%;
+      border-radius: 10px;
     }
     .imsg{
         flex-direction: column;
@@ -539,38 +592,47 @@
 
     .ims{
         border-radius: 10px;
-        margin-left: 50px;
-        width: 265%;
+        margin-left: -8px;
+        width: 96%;
     }
     .box3{
-        width: 260%;
-        height: 60vh;
+        width: 96%;
+        height: 20vh;
         background-color:rgba(128, 128, 128, 0.219) ;
-        margin-left: 50px;
+        margin-left: -10px;
         border-radius: 10px;
         
     }
     .earp{
-        margin-left: 60px;
-        padding-top: 90px;
-        font-size: 60px;
+        margin-left: 40px;
+        padding-top: 50px;
+        font-size: 20px;
     }
     .earp h1{
-        font-size: 80px;
+        font-size: 30px;
     }
     .sep{
         padding: 10px 30px;
         background-color: black;
         color: white;
+        margin-top: 10px;
     }
     .gear{
         margin-top: 90px;
-        width: 220%; 
-        font-size: 40px;
-        margin-left: 150px;
+        width: 120%; 
+        font-size: 15px;
+        margin-left: 10px;
+        text-align: center;
+    }
+    .gear p{
+        margin-left: -55px;
+        width: 80%;
     }
     .ger h1{
-        font-size: 60px;
+        font-size: 30px;
+        margin-left:-90px;
+        width: 100%;
+        text-align: center;
     }
    .bt{
          background-color: orange;
@@ -584,38 +646,72 @@
      }
     .best{
         border-radius: 10px;
-        width: 250%;
-        height: 110vh;
+        width: 90%;
+        height: 40vh;
         margin-top: 50px;
+        margin-left: 10px;
     }
     .ger{
         flex-direction: column;
     } 
     .container4{
         background-color: black;
-        height: 50vh;
+        height: 100vh;
         margin-top: 200px;
-        width: 260%;
+        width: 100%;
+        flex-direction: column;
+    }
+    .bt{
+        margin-left: 120px;
+        width: 30%;
+    }
+    .au{
+        font-size: 35px;
+        margin-left: -50px;
     }
     .aud{
         width: 78%;
-        margin-left: 150px;
+        margin-left: 140px;
         margin-top: 70px;
     }
     .phile{
         margin-top: 50px;
-        width: 70%;
+        width: 100%;
+        margin-left: -115px;
+        text-align: center;
+    }
+    .cp{
+        margin-left: -100px;
+    }
+    link{
+        margin-top: 5px;
+        text-align: center;
+    }
+    .er{
+        margin-left: -30px;
+    }
+    .ssp{
+        margin-left: -10px;
+    }
+    .hd{
+        margin-left: -40px;
+    }
+    .hm{
+        margin-left: 20px;
     }
     .link:hover{
         color: orange !important;
     }
     .links{
-        margin-top: 90px;
-        margin-left: -280px;
+        margin-top: 30px;
+        margin-left: 100px;
+        flex-direction: column;
+        font-size: 30px;
     }
     .logo{
-        margin-top: 170px;
-        margin-left: -40px;
+        margin-top: 100px;
+        margin-left: 130px;
+    
     }
     
 
